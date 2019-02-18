@@ -264,7 +264,9 @@ it, simply add the following line to your Podfile:
 pod "Collor"
 ```
 ### Carthage
-Collor doesn't yet support Carthage. Work in progress...
+```
+github "voyages-sncf-technologies/Collor"
+```
 
 ## Documentation
 
